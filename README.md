@@ -1,4 +1,3 @@
-# test
+# my very first repop
 
-this is a new edit from my local computer
-ha ha ha
+i am an awsome person
